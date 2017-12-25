@@ -3,6 +3,7 @@ package sb;
 
 public class ShowBits {
     int numbits;
+    
     ShowBits(int n){
         numbits = n;
     }
