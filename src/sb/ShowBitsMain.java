@@ -16,5 +16,8 @@ public class ShowBitsMain {
         
         System.out.println("\n237658768 in binary representation");
         li.show(237658768);
+        
+        System.out.println("\nlower 8 bits of the number 87987 in binary representation");
+        b.show(87987);
     }
 }
